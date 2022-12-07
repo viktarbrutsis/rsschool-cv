@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 https://viktarbrutsis1980.github.io/rsschool-cv/cv. 
@@ -14,4 +15,7 @@ https://viktarbrutsis1980.github.io/rsschool-cv/cv
 =======
 
 >>>>>>> d3430e1... Update README.md
+=======
+
+>>>>>>> 9978612... feat: correct readme in cv-html branch
 https://viktarbrutsis1980.github.io/rsschool-cv/
