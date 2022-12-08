@@ -1,3 +1,7 @@
+body {
+    background-color: antiquewhite;
+    font-family: 'Roboto Slab', sans-serif;
+}
 .container {
     max-width: 1440px;
     margin: 0 auto;

@@ -5,8 +5,73 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>CV</title>
+<link rel="stylesheet" href="style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;900&display=swap" rel="stylesheet">
+<link rel="icon" href="assets/fav/rs_school_js.ico">
 </head>
 <body>
-
+<div class="container">
+   <header>
+      <nav class = nav>
+         <ul>
+            <li>Contacts</li>
+            <li>Summary</li>
+            <li>Education</li>
+            <li>Contacts</li>
+            <li>Languages</li>
+            <li>Skills</li>
+         </ul>
+      </nav>
+   </header>
+   <main>
+      <section class = "introduction">
+         <div class="photo"><img src="" alt=""></div>
+         <div class="myName">
+            <h3>Viktar Brutsis</h3>
+            <div class="myName-divider"></div>
+            <div class="myName-descr">junior front-end developer</div>
+         </div>
+      </section>
+      <div class="divider"></div>
+      <section class="myInfo">
+         <div class="myInfo__part">
+            <h3 class="myInfo__part-title">Contacts</h3>
+            <div class="myInfo__part-list">
+               <ul>
+                  <li>city: <span>Minsk</span></li>
+                  <li>e-mail: <span>viktarbrutsis@gmail.com</span>></li>
+                  <li>gitHub: <span>viktarbrutsis</span></li>
+                  <li>telegram: <span>vicvic1980</span></li>
+                  <li>discord: <span>viktarbrutsis</span></li>
+               </ul>
+            </div>
+         </div>
+         <div class="myInfo__part">
+            <h3 class="myInfo__part-title">About myself</h3>
+            <div class="myInfo__part-text">
+               My mane job is fashion retail. I'm a chief of the fashion stores in Belarus. But I'm interesting in web-development. It's a really amazing when we can create web cite by yourself. For this monet it's just a hobby and now I'm at the start of my studying.
+            </div>
+         </div>
+         <div class="myInfo__part">
+            <h3 class="myInfo__part-title">code example</h3>
+            <div class="myInfo__part-text">
+               <pre>
+                  <code>
+function factorial(n) {
+   let num = 1;
+   for (let i = 2; i <= n; i++) {
+      num = num * i;
+   }
+   return num;
+}
+                  </code>
+               </pre>
+            </div>
+         </div>
+      </section>
+   </main>
+</div>
 </body>
 </html>
