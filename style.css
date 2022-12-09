@@ -85,10 +85,12 @@ header .link-item:hover {
     max-height: 400px;
 }
 .myInfo__part-title {
+    display: block;
+    height: 45px;
     margin-bottom: 20px;
     font-size: 20px;
     text-transform: uppercase;
-    letter-spacing: 25px;
+    letter-spacing: 15px;
     color: lightsteelblue;
 }
 .myInfo span {
