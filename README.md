@@ -1,3 +1,3 @@
 
-https://viktarbrutsis1980.github.io/rsschool-cv/
+https://viktarbrutsis.github.io/rsschool-cv/
 
