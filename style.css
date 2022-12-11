@@ -134,3 +134,10 @@ pre {
     /*background-repeat: no-repeat;*/
     fill: #fff;
 }
+.projectCV {
+    text-decoration: none;
+    color: black;
+}
+.projectCV:hover {
+    color: lightsteelblue;
+}
